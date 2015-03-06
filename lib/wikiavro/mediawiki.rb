@@ -396,9 +396,13 @@ module WikiAvro::MediaWiki
     end
   end
 
-  class Minor < WikiAvro::XML::Inserter
-    def initialize
-      super('minor')
+  class Minor < WikiAvro::XML::Leaf
+    def name
+      'minor'
+    end
+
+    def parse_attributes(w, p, r)
+      p.minor = true
     end
   end
 

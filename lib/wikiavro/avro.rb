@@ -179,7 +179,7 @@ EOS
              'n' => n.to_i,
              'timestamp' => timestamp,
              'contributor' => contributor,
-             'minor' => minor.nil?,
+             'minor' => !!minor,
              'comment' => comment,
              'bytes' => bytes.to_i,
              'textid' => textid,
