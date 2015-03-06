@@ -624,12 +624,12 @@ module WikiAvro::MediaWiki
     end
 
     def reset
-      title = nil
-      ns = nil
-      id = nil
-      redirect = nil
-      sha1 = nil
-      revision_count = nil
+      @title = nil
+      @ns = nil
+      @id = nil
+      @redirect = nil
+      @sha1 = nil
+      @revision_count = nil
       @revision_count = 0
     end
 
