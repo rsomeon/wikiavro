@@ -50,7 +50,14 @@ EOS
       ]
     }]},
     {"name": "minor", "type": "boolean"},
-    {"name": "comment", "type": ["null", "string"]},
+    {"name": "comment", "type": ["null", {
+      "namespace": "org.rationalwiki",
+      "name": "Comment",
+      "type": "record",
+      "fields": [
+	{"name": "comment", "type": ["null", "string"]}
+      ]
+    }]},
     {"name": "bytes", "type": "long"},
     {"name": "textid", "type": ["null", "string"]},
     {"name": "text", "type": ["null", "string"]}
@@ -152,11 +159,17 @@ EOS
         contributor = nil
       end
 
-      if comment[:deleted].nil?
-        comment = comment[:comment]
-      else
-        raise 'deleted comment has content' if comment[:comment]
-        comment = nil
+      if !comment.nil?
+        if !(comment[:deleted].nil? ^ comment[:comment].nil?)
+          raise 'comment[:deleted] and comment[:comment] should alternate'
+        end
+
+        if comment[:deleted].nil?
+          comment[:comment]
+        else
+          comment.delete :deleted
+          comment[:comment] = nil
+        end
       end
 
       text = nil if !text_deleted.nil?
