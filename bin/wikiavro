@@ -1,0 +1,90 @@
+#!/usr/bin/env ruby
+
+require 'wikiavro'
+require 'xml'
+require 'optparse'
+
+Version = WikiAvro::Version
+
+logger = WikiAvro::MediaWiki::RevisionProgress.new 10000
+overwrite = false
+deflate = false
+ns = nil
+page = nil
+rev = nil
+lqt = nil
+
+opt_parser = OptionParser.new do |opts|
+  opts.banner = 'Usage: wikiavro [options] [INFILE]'
+
+  opts.on('-q', '--quiet', "Don't report progress") do |v|
+    logger = WikiAvro::MediaWiki::NoProgress.new
+  end
+
+  opts.on('-v LEVEL', '--verbose=LEVEL', Integer,
+          'Report progress after every LEVEL revisions parsed') do |lvl|
+    logger = WikiAvro::MediaWiki::RevisionProgress.new lvl.to_i
+  end
+
+  opts.on('-o', '--overwrite') do |o|
+    overwrite = o
+  end
+
+  opts.on('-d', '--deflate', 'Enable Avro internal compression') do |d|
+    deflate = d
+  end
+
+  opts.on('-n OUTFILE', '--namespaces=OUTFILE') do |path|
+    ns = path
+  end
+
+  opts.on('-p OUTFILE', '--pages=OUTFILE') do |path|
+    page = path
+  end
+
+  opts.on('-r OUTFILE', '--revisions=OUTFILE') do |path|
+    rev = path
+  end
+
+  opts.on('-l OUTFILE', '--liquidthreads=OUTFILE') do |path|
+    lqt = path
+  end
+end
+
+opt_parser.parse!
+
+abort('You must specify --namespaces') if ns.nil?
+abort('You must specify --pages') if page.nil?
+abort('You must specify --revisions') if rev.nil?
+abort('You must specify --liquidthreads') if lqt.nil?
+
+if !overwrite
+  [ns, page, rev, lqt].each do |path|
+    if File.exists? path
+      abort("#{path} already exists! pass --overwrite to proceed anyway")
+    end
+  end
+end
+
+ns = WikiAvro::Avro::NamespaceWriter.new ns, deflate
+page = WikiAvro::Avro::PageWriter.new page, deflate
+rev = WikiAvro::Avro::RevisionWriter.new rev, deflate
+lqt = WikiAvro::Avro::LqtWriter.new lqt, deflate
+
+writer = WikiAvro::MediaWiki::WikiWriter.new :logger => logger,
+                                             :namespace => ns,
+                                             :page => page,
+                                             :revision => rev,
+                                             :lqt => lqt
+
+mw = WikiAvro::MediaWiki::WikiDump.new
+
+xml = XML::Reader.io(ARGF)
+xml.read
+
+mw.parse(writer, nil, xml)
+
+ns.close
+page.close
+rev.close
+lqt.close
