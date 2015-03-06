@@ -450,15 +450,15 @@ module WikiAvro::MediaWiki
     end
 
     def reset
-      id = nil
-      timestamp = nil
-      contributor = nil
-      minor = nil
-      comment = nil
-      text_deleted = nil
-      bytes = nil
-      textid = nil
-      text = nil
+      @id = nil
+      @timestamp = nil
+      @contributor = nil
+      @minor = nil
+      @comment = nil
+      @text_deleted = nil
+      @bytes = nil
+      @textid = nil
+      @text = nil
     end
 
     def handle_content(w, p, r)
@@ -571,16 +571,16 @@ module WikiAvro::MediaWiki
     end
 
     def reset
-      threadSubject = nil
-      threadParent = nil
-      threadAncestor = nil
-      threadPage = nil
-      threadID = nil
-      threadSummaryPage = nil
-      threadAuthor = nil
-      threadEditStatus = nil
-      threadType = nil
-      threadSignature = nil
+      @threadSubject = nil
+      @threadParent = nil
+      @threadAncestor = nil
+      @threadPage = nil
+      @threadID = nil
+      @threadSummaryPage = nil
+      @threadAuthor = nil
+      @threadEditStatus = nil
+      @threadType = nil
+      @threadSignature = nil
     end
 
     def handle_content(w, p, r)
