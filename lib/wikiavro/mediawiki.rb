@@ -10,7 +10,9 @@ require 'wikiavro/xml'
 # DiscussionThreading. Schema does not describe ThreadSummaryPage or
 # ThreadSignature. Schema does not describe which LQT tags are
 # omissible. Schema says thread info should always come after
-# revisions, but it does not.
+# revisions, but it does not. Schema says say ThreadParent and
+# ThreadAncestor should be integers, they are in fact strings of page
+# names.
 
 module WikiAvro::MediaWiki
   class NamespacePrinter

@@ -72,8 +72,8 @@ EOS
   "type": "record",
   "fields": [
     {"name": "subject", "type": "string"},
-    {"name": "parent", "type": ["null", "long"]},
-    {"name": "ancestor", "type": ["null", "long"]},
+    {"name": "parent", "type": ["null", "string"]},
+    {"name": "ancestor", "type": ["null", "string"]},
     {"name": "page", "type": "string"},
     {"name": "id", "type": "long"},
     {"name": "summary_page", "type": ["null", "string"]},
