@@ -194,9 +194,6 @@ EOS
 
     def write(subject, parent, ancestor, page, id, summary_page,
               author, edit_status, type, signature)
-      parent = parent.to_i if parent
-      ancestor = ancestor.to_i if ancestor
-
       encode 'subject' => subject,
              'parent' => parent,
              'ancestor' => ancestor,
