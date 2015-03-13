@@ -16,9 +16,12 @@ Gem::Specification.new do |s|
   s.authors = ['Someon']
   s.email = 'someon@openmailbox.org'
   s.files = Dir['lib/**/*.rb', 'lib/**/*.jar']
-  s.test_files = Dir['test/**/*.rb']
+  s.test_files = Dir['test/**/*.rb', 'test/**/*.xml']
   s.executables << 'wikiavro'
   s.add_runtime_dependency 'nokogiri', '~> 1.6'
   s.add_runtime_dependency 'avro', '~> 1.7'
+  s.add_development_dependency 'jbundler'
+  s.add_development_dependency 'rake'
+  s.add_development_dependency 'minitest'
   s.license = 'GPL-3.0+'
 end

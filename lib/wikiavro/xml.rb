@@ -56,13 +56,14 @@ module WikiAvro::XML
       raise MissingElement.new unless reader.end_element?
       reader.read
       return
+    else
+      writer.skipped(name) if skipping
     end
 
 #    puts "skip_tag: skipping #{name}"
 
     if reader.empty_element?
 #      puts "skip_tag: element was empty; skipped"
-      writer.skipped(name) if skipping
       reader.read
       return
     end
@@ -197,7 +198,7 @@ module WikiAvro::XML
 
     def parse_content(w, p, r)
       got = r.read_string
-#      puts "inserter: #{@name} got #{got}"
+#      puts "inserter: #{@name}"
       p.send(@writer, got)
 #      puts "inserter: exiting #{@name}"
       WikiAvro::XML.skip_tag(w, r, false)

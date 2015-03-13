@@ -115,6 +115,33 @@ module WikiAvro::MediaWiki
     end
   end
 
+  class AccumulateProgress
+    attr_accessor :pages, :revisions, :skipped, :done
+
+    def initialize
+      @pages = 0
+      @revisions = 0
+      @skipped = 0
+      @done = false
+    end
+
+    def report_pages(n)
+      @pages += n
+    end
+
+    def report_revisions(n)
+      @revisions += n
+    end
+
+    def report_done
+      @done = true
+    end
+
+    def report_skipped_element(name)
+      @skipped += 1
+    end
+  end
+
   class FinalProgress
     def f(n)
       parts = []

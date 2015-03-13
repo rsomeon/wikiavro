@@ -1,0 +1,1328 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="en">
+  <siteinfo>
+    <sitename>RationalWiki</sitename>
+    <base>http://localhost/wiki/Main_Page</base>
+    <generator>MediaWiki 1.19.12</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>User:Linus</title>
+    <ns>2</ns>
+    <id>2</id>
+      <sha1>l33i4u3p5s4joyq1x9mnvtz77pkv0q1</sha1>
+    <revision>
+      <id>2</id>
+      <timestamp>2007-05-22T02:29:44Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>New page: First new account! W00t!  But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary s...</comment>
+      <text xml:space="preserve" bytes="738">First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the old logo, etc.
+
+So yeah, I'm completely cool.</text>
+    </revision>
+    <revision>
+      <id>10</id>
+      <timestamp>2007-05-22T02:37:57Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Cybercriminal!</comment>
+      <text xml:space="preserve" bytes="944">First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the old logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).</text>
+    </revision>
+    <revision>
+      <id>1196</id>
+      <timestamp>2007-05-22T23:01:34Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1153">First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the old logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>1201</id>
+      <timestamp>2007-05-22T23:05:35Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Update, it's no longer the &quot;old&quot; logo</comment>
+      <text xml:space="preserve" bytes="1149">First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>1210</id>
+      <timestamp>2007-05-22T23:15:56Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Userboxen</comment>
+      <text xml:space="preserve" bytes="1208">{{userboxtop|Userboxen}}
+{{user Cabal}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>2547</id>
+      <timestamp>2007-05-24T03:53:03Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Slowly building up the userboxen…</comment>
+      <text xml:space="preserve" bytes="1228">{{userboxtop|Userboxen}}
+{{user Cabal}}
+{{User Wikipedian}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>2550</id>
+      <timestamp>2007-05-24T03:55:15Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Undo revision 2547 by [[Special:Contributions/Linus M.|Linus M.]] ([[User talk:Linus M.|Talk]])</comment>
+      <text xml:space="preserve" bytes="1208">{{userboxtop|Userboxen}}
+{{user Cabal}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>2581</id>
+      <timestamp>2007-05-24T04:14:38Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1603">{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user maintains '''{{{1|XX}}}''' socks on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>2583</id>
+      <timestamp>2007-05-24T04:15:17Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1613">{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>3595</id>
+      <timestamp>2007-05-24T23:45:32Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>More userboxen!</comment>
+      <text xml:space="preserve" bytes="1636">{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>5572</id>
+      <timestamp>2007-05-26T22:23:35Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>{{User Forum}}</comment>
+      <text xml:space="preserve" bytes="1651">{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>5582</id>
+      <timestamp>2007-05-26T22:43:21Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Info pertainent to me, personally.</comment>
+      <text xml:space="preserve" bytes="2339">{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>5584</id>
+      <timestamp>2007-05-26T22:45:44Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Modifier - if they've consented, well…</comment>
+      <text xml:space="preserve" bytes="2412">{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>8277</id>
+      <timestamp>2007-05-31T04:04:30Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Towel Day banner implemented with ParserFunctions</comment>
+      <text xml:space="preserve" bytes="2543">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]|}}
+&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>9892</id>
+      <timestamp>2007-06-02T23:36:35Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2772">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]|}}
+&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>10366</id>
+      <timestamp>2007-06-03T19:51:26Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Added techie userbox</comment>
+      <text xml:space="preserve" bytes="2916">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]|}}
+&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Sheep 84833.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>10407</id>
+      <timestamp>2007-06-03T20:09:55Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2922">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]|}}
+&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>12330</id>
+      <timestamp>2007-06-07T00:32:49Z</timestamp>
+      <contributor>
+        <username>Ruthless Vandal</username>
+        <id>101</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3148">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]|}}
+&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;wi{{fact}}dth: 238px{{fact}}; color: #{{fact}}000000; back{{fact}}ground: #ffe496;&quot;
+| style=&quot;w{{fact}}idth: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of So{{fact}}cks.JPG|58px]]
+| style=&quot;font-size: 8pt; p{{fact}}adding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+{{fact}}|}
+{{fact}}&lt;/div&gt;
+{{fact}}{{User Tech Director}}
+{{fact}}{{User Forum}}
+{{fact}}{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+v{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+v
+Fvirst new account! W00t!
+
+Bu{{fact}}t yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write softvware for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+{{fact}}
+vSo yeah, I'm completely cool.
+
+Ovvh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+vI'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+{{fact}}vAs far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+{{fact}}{{fact}}{{fact}}{{fact}}
+{{fact}}{{fact}}{{fact}}{{fact}}And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+{{fact}}{{fact}}{{fact}}{{fact}}</text>
+    </revision>
+    <revision>
+      <id>12332</id>
+      <timestamp>2007-06-07T00:34:31Z</timestamp>
+      <contributor>
+        <username>Icewedge</username>
+        <id>9</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/Ruthless Vandal|Ruthless Vandal]] ([[User talk:Ruthless Vandal|Talk]]); changed back to last version by [[User:Linus M.|Linus M.]]</comment>
+      <text xml:space="preserve" bytes="2922">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]|}}
+&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>16937</id>
+      <timestamp>2007-06-20T03:22:06Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3185">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user may be taking a short wikibreak soon, as they are unused to dealing with so many people &quot;under&quot; them, and the associated stress. Fortunately, they will be at nerd camp for a week, so this will come more easily.'''&lt;/div&gt;&lt;/big&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.</text>
+    </revision>
+    <revision>
+      <id>18749</id>
+      <timestamp>2007-06-22T16:52:07Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Added cats</comment>
+      <text xml:space="preserve" bytes="3239">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user may be taking a short wikibreak soon, as they are unused to dealing with so many people &quot;under&quot; them, and the associated stress. Fortunately, they will be at nerd camp for a week, so this will come more easily.'''&lt;/div&gt;&lt;/big&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>23223</id>
+      <timestamp>2007-07-02T19:23:56Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3167">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user has returned from nerd camp, and will probably spend the next few days moping. Bother him frequently to take his mind off his sad fate :).'''&lt;/div&gt;&lt;/big&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>25833</id>
+      <timestamp>2007-07-07T21:23:48Z</timestamp>
+      <contributor>
+        <username>Linus M.</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Linus M.]] moved to [[User:Linus]]: Automatically moved page while renaming the user &quot;[[User:Linus M.|Linus M.]]&quot; to &quot;[[User:Linus|Linus]]&quot;</comment>
+      <text xml:space="preserve" bytes="3167">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user has returned from nerd camp, and will probably spend the next few days moping. Bother him frequently to take his mind off his sad fate :).'''&lt;/div&gt;&lt;/big&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>25851</id>
+      <timestamp>2007-07-07T21:58:49Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3195">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user has returned from nerd camp, and will probably spend the next few days moping. Bother him frequently to take his mind off his sad fate :).'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards communism, ideally, but, sadly, communism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>26287</id>
+      <timestamp>2007-07-08T21:51:14Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3195">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user has returned from nerd camp, and will probably spend the next few days moping. Bother him frequently to take his mind off his sad fate :).'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>31791</id>
+      <timestamp>2007-07-20T22:16:58Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="379">&lt;center&gt;&lt;div style=&quot;align: center; width: 50%; padding: 0.5em; border: solid 2px black; background-color: #eeeeee;&quot;&gt;
+'''&lt;big&gt;R &amp;nbsp; E &amp;nbsp; T &amp;nbsp; I &amp;nbsp; R &amp;nbsp; E &amp;nbsp; D&lt;/big&gt;'''&lt;br&gt;This user has requested that their pages be archived and protected from editing.&lt;BR&gt;This is due to a private decision to leave RationalWiki.&lt;BR&gt;Please honor their request.&lt;/div&gt;&lt;/center&gt;</text>
+    </revision>
+    <revision>
+      <id>31793</id>
+      <timestamp>2007-07-20T22:18:05Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Retiring</comment>
+      <text xml:space="preserve" bytes="17">{{retired|Linus}}</text>
+    </revision>
+    <revision>
+      <id>31794</id>
+      <timestamp>2007-07-20T22:18:24Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[User:Linus]]&quot; [edit=sysop:move=sysop]</comment>
+      <text xml:space="preserve" bytes="17">{{retired|Linus}}</text>
+    </revision>
+    <revision>
+      <id>31795</id>
+      <timestamp>2007-07-20T22:20:53Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Unprotected &quot;[[User:Linus]]&quot;: That got old fast.</comment>
+      <text xml:space="preserve" bytes="17">{{retired|Linus}}</text>
+    </revision>
+    <revision>
+      <id>31796</id>
+      <timestamp>2007-07-20T22:21:28Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <comment>Bah, that got old fast.</comment>
+      <text xml:space="preserve" bytes="3195">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user has returned from nerd camp, and will probably spend the next few days moping. Bother him frequently to take his mind off his sad fate :).'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>32022</id>
+      <timestamp>2007-07-21T13:04:08Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3229">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''This user will be taking a temporary leave from the internet while they finish ''[[Harry Potter and the Deathly Hallows]]'', in order that they might not stumble across plot details.'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>34647</id>
+      <timestamp>2007-07-28T22:44:21Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3084">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''No, I did not take a week to read it.'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards libertarianism - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>34688</id>
+      <timestamp>2007-07-29T02:35:47Z</timestamp>
+      <contributor>
+        <username>Human</username>
+        <id>5</id>
+      </contributor>
+      <comment>I took the liberty of making a llink, ok?</comment>
+      <text xml:space="preserve" bytes="3088">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''No, I did not take a week to read it.'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>36053</id>
+      <timestamp>2007-08-01T02:30:16Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3156">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''Those seeking e-mail addresses… the login point is https://rationalwiki.com:2096/. Sorry for the delay.'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>38954</id>
+      <timestamp>2007-08-06T22:28:39Z</timestamp>
+      <contributor>
+        <username>SHahB</username>
+        <id>49</id>
+      </contributor>
+      <minor/>
+      <comment>pwn!</comment>
+      <text xml:space="preserve" bytes="4166">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''Those seeking e-mail addresses… the login point is https://rationalwiki.com:2096/. Sorry for the delay.'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+&lt;div style=&quot;float:{{{float|left}}}; border:{{{border-width|{{{border-s|1}}}}}}px solid {{{border-color|{{{1|{{{border-c|{{{id-c|#999}}}}}}}}}}}}; margin:1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px; background:{{{info-background|{{{2|{{{info-c|#EEE}}}}}}}}};&quot;
+| style=&quot;width:45px; height:45px; background:{{{logo-background|{{{1|{{{id-c|#DDD}}}}}}}}}; text-align:center; font-size:{{{logo-size|{{{5|{{{id-s|14}}}}}}}}}pt; color:{{{logo-color|{{{id-fc|black}}}}}}; padding:{{{logo-padding|{{{id-p|1pt}}}}}}; line-height:{{{logo-line-height|{{{id-lh|1.25em}}}}}}; {{{logo-other-param|{{{id-op|}}}}}}&quot; | '''{{{logo|{{{3|{{{id|pwn}}}}}}}}}'''
+| style=&quot;font-size:{{{info-size|{{{info-s|8}}}}}}pt; padding:{{{info-padding|{{{info-p|4pt}}}}}}; line-height:{{{info-line-height|{{{info-lh|1.25em}}}}}}; color:{{{info-color|{{{info-fc|black}}}}}}; {{{info-other-param|{{{info-op|}}}}}}&quot; | {{{info|{{{4|{{{info|''This user has been pwned by [[User:Bohdan|Bohdan]].  The pwn was better than GL's pwn.''}}}}}}}}}
+|}&lt;/div&gt;
+
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>39015</id>
+      <timestamp>2007-08-06T23:54:09Z</timestamp>
+      <contributor>
+        <username>GodlessLiberal</username>
+        <id>29</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="4186">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{No Cp|User:Linus M.}}
+&lt;big&gt;&lt;div align=&quot;center&quot;&gt;'''Those seeking e-mail addresses… the login point is https://rationalwiki.com:2096/. Sorry for the delay.'''&lt;/div&gt;&lt;/big&gt;&lt;br&gt;
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+&lt;div style=&quot;float:{{{float|left}}}; border:{{{border-width|{{{border-s|1}}}}}}px solid {{{border-color|{{{1|{{{border-c|{{{id-c|#999}}}}}}}}}}}}; margin:1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px; background:{{{info-background|{{{2|{{{info-c|#EEE}}}}}}}}};&quot;
+| style=&quot;width:45px; height:45px; background:{{{logo-background|{{{1|{{{id-c|#DDD}}}}}}}}}; text-align:center; font-size:{{{logo-size|{{{5|{{{id-s|14}}}}}}}}}pt; color:{{{logo-color|{{{id-fc|black}}}}}}; padding:{{{logo-padding|{{{id-p|1pt}}}}}}; line-height:{{{logo-line-height|{{{id-lh|1.25em}}}}}}; {{{logo-other-param|{{{id-op|}}}}}}&quot; | '''{{{logo|{{{3|{{{id|pwn}}}}}}}}}'''
+| style=&quot;font-size:{{{info-size|{{{info-s|8}}}}}}pt; padding:{{{info-padding|{{{info-p|4pt}}}}}}; line-height:{{{info-line-height|{{{info-lh|1.25em}}}}}}; color:{{{info-color|{{{info-fc|black}}}}}}; {{{info-other-param|{{{info-op|}}}}}}&quot; | {{{info|{{{4|{{{info|''This user has been pwned by [[User:GodlessLiberal|GodlessLiberal]].  The pwn was better than Bohdan's pwn.''}}}}}}}}}
+|}&lt;/div&gt;
+
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>39827</id>
+      <timestamp>2007-08-08T17:05:43Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="4631">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{cquote|Did you know,&quot; he asked rather wistfully, &quot;that I was one of the Old Ones myself? My father was a demon, they say, but my mother was a Gael. The only human blood I have comes from the Old Ones. Yet here I am denouncing their ideas of nationalism, being what their politicians would call a traitor - because, by calling names, they can score the cheap debating points. And do you know another thing, Arthur? Life is too bitter already, without territories and wars and noble feuds.|32px|32px|Merlyn, ''[[wikipedia:The Once and Future King|The Once and Future King]]''}}
+
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+&lt;div style=&quot;float:{{{float|left}}}; border:{{{border-width|{{{border-s|1}}}}}}px solid {{{border-color|{{{1|{{{border-c|{{{id-c|#999}}}}}}}}}}}}; margin:1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px; background:{{{info-background|{{{2|{{{info-c|#EEE}}}}}}}}};&quot;
+| style=&quot;width:45px; height:45px; background:{{{logo-background|{{{1|{{{id-c|#DDD}}}}}}}}}; text-align:center; font-size:{{{logo-size|{{{5|{{{id-s|14}}}}}}}}}pt; color:{{{logo-color|{{{id-fc|black}}}}}}; padding:{{{logo-padding|{{{id-p|1pt}}}}}}; line-height:{{{logo-line-height|{{{id-lh|1.25em}}}}}}; {{{logo-other-param|{{{id-op|}}}}}}&quot; | '''{{{logo|{{{3|{{{id|pwn}}}}}}}}}'''
+| style=&quot;font-size:{{{info-size|{{{info-s|8}}}}}}pt; padding:{{{info-padding|{{{info-p|4pt}}}}}}; line-height:{{{info-line-height|{{{info-lh|1.25em}}}}}}; color:{{{info-color|{{{info-fc|black}}}}}}; {{{info-other-param|{{{info-op|}}}}}}&quot; | {{{info|{{{4|{{{info|''This user has been pwned by [[User:GodlessLiberal|GodlessLiberal]].  The pwn was better than Bohdan's pwn.'' --[[User:Bohdan
+]]}}}}}}}}}
+{{No Cp|User:Linus M.}}
+|}&lt;/div&gt;
+
+{{userboxbottom}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>39832</id>
+      <timestamp>2007-08-08T18:09:35Z</timestamp>
+      <contributor>
+        <username>Linus</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3591">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{cquote|Did you know,&quot; he asked rather wistfully, &quot;that I was one of the Old Ones myself? My father was a demon, they say, but my mother was a Gael. The only human blood I have comes from the Old Ones. Yet here I am denouncing their ideas of nationalism, being what their politicians would call a traitor - because, by calling names, they can score the cheap debating points. And do you know another thing, Arthur? Life is too bitter already, without territories and wars and noble feuds.|32px|32px|Merlyn, ''[[wikipedia:The Once and Future King|The Once and Future King]]''}}
+
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+|}&lt;/div&gt;
+{{userboxbottom}}
+{{No Cp|User:Linus M.}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>43537</id>
+      <timestamp>2007-08-18T06:43:51Z</timestamp>
+      <contributor>
+        <username>Human</username>
+        <id>5</id>
+      </contributor>
+      <comment>you think you're so smart!</comment>
+      <text xml:space="preserve" bytes="3613">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{cquote|Did you know,&quot; he asked rather wistfully, &quot;that I was one of the Old Ones myself? My father was a demon, they say, but my mother was a Gael. The only human blood I have comes from the Old Ones. Yet here I am denouncing their ideas of nationalism, being what their politicians would call a traitor - because, by calling names, they can score the cheap debating points. And do you know another thing, Arthur? Life is too bitter already, without territories and wars and noble feuds.|32px|32px|Merlyn, ''[[wikipedia:The Once and Future King|The Once and Future King]]''}}
+
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+|}&lt;/div&gt;
+{{userboxbottom}}
+{{No Cp|User:Linus M.}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+{{DEFAULTSORT|Linus}}
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+    <revision>
+      <id>43538</id>
+      <timestamp>2007-08-18T06:45:37Z</timestamp>
+      <contributor>
+        <username>Human</username>
+        <id>5</id>
+      </contributor>
+      <comment>3 times, ok</comment>
+      <text xml:space="preserve" bytes="3613">{{#ifeq: 5 25|{{#time: n j}}|&lt;div align=&quot;center&quot;&gt;[[Image:Towelday.gif]]&lt;/div&gt;&lt;br&gt;[http://www.towelday.kojv.net/ Towel Day]&lt;br&gt;|}}
+{{cquote|Did you know,&quot; he asked rather wistfully, &quot;that I was one of the Old Ones myself? My father was a demon, they say, but my mother was a Gael. The only human blood I have comes from the Old Ones. Yet here I am denouncing their ideas of nationalism, being what their politicians would call a traitor - because, by calling names, they can score the cheap debating points. And do you know another thing, Arthur? Life is too bitter already, without territories and wars and noble feuds.|32px|32px|Merlyn, ''[[wikipedia:The Once and Future King|The Once and Future King]]''}}
+
+{{userboxtop|Userboxen}}
+{{user Cabal}}
+&lt;div style=&quot;float: left; border: solid #ffb466 1px; margin: 1px;&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width: 238px; color: #000000; background: #ffe496;&quot;
+| style=&quot;width: 45px; height: 45px; background: #ffb466; text-align: center;&quot; |[[Image:Pile of Socks.JPG|58px]]
+| style=&quot;font-size: 8pt; padding: 4pt; line-height: 1.25em;&quot; | This user has forgotten how many socks they have/had on [[Conservapedia]].
+|}
+&lt;/div&gt;
+{{User Tech Director}}
+{{User Forum}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Stylized Big Bang.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user believes in the Big Bang, and believes that it does not have to conflict with Christianity.&lt;/div&gt;}}
+{{userbox|info-c=#000000|id-c=#000000|info-fc=#ffffff|id=[[Image:Flame - Insectoid.jpg|64px]]|info=&lt;div align=&quot;center&quot;&gt;This user is a techie.&lt;/div&gt;}}
+|}&lt;/div&gt;
+{{userboxbottom}}
+{{No Cp|User:Linus M.}}
+
+First new account! W00t!
+
+But yeah, about me… I'm a complete geek. I spend all the time I can on my computer, write software for fun, am strongly opinionated about free and proprietary software, I think that Windows completely sucks, I listen to bands no one has ever heard of, [[Wikipedia:User:Linus M.|I edit Wikipedia compulsively]], I run [[mediawikiwiki:MediaWiki|MediaWiki]] locally, I figured out how to delete MediaWiki accounts from the MySQL database, and told the Founder how to do this, I can quote Marvin the Paranoid Android verbatim, I was on the old version of RationalWiki, I created an account on the new version before the Main Page had even been modified, I designed the logo, etc.
+
+So yeah, I'm completely cool.
+
+Oh, I forgot. I'm also apparently a cybercriminal, who's being investigated by the FBI. So I've been told. However, I doubt this assessment's veracity (in case you were looking in horror at your monitor).
+
+I'm a Christian - but don't confuse &quot;Christian&quot; with &quot;ultraconservative&quot;, or YEC, or even OEC. I believe in both the Big Bang and evolution, although I believe that God had a hand in both, to some extent, and by that I mean that I don't believe that God necessarily guided them over every step of the way. I'm also of partial Jewish decent, so if you insult me, I reserve the right to call you an anti-semite ;).
+
+As far as politics goes, I tend towards [[libertarianism]] - you can do whatever you want, and it doesn't really bother me (although I might not condone it), as long as you're not harming anyone else who hasn't fully consciously consented to whatever it is that is harmful. I also tend towards socialism, ideally, but, sadly, socialism doesn't work.
+
+And I'm both a [[wikipedia:Wikipedia:Bureaucrat|bureaucrat]] and [[wikipedia:Wikipedia:Sysop|sysop]] on Rationalwiki, and the semi-official tech guy, so if you have any questions, please feel free to ask me.
+
+{{DEFAULTSORT:Linus}}
+[[Category:Polymaths]]
+[[Category:Trouble Shooters]]</text>
+    </revision>
+  </page>
+</mediawiki>
