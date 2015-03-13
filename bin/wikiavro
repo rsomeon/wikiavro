@@ -4,7 +4,7 @@ require 'wikiavro'
 require 'xml'
 require 'optparse'
 
-Version = WikiAvro::Version
+Version = WikiAvro::VERSION
 
 logger = WikiAvro::MediaWiki::RevisionProgress.new 10000
 overwrite = false

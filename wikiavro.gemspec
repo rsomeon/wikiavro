@@ -1,11 +1,12 @@
+require File.expand_path('../lib/wikiavro/version', __FILE__)
+
 Gem::Specification.new do |s|
   s.name = 'wikiavro'
-  s.version = '0.0.2'
+  s.version = WikiAvro::VERSION
   s.summary = 'Convert MediaWiki XML dumps to Avro'
   s.authors = ['Someon']
   s.email = 'someon@openmailbox.org'
-  s.files = ['lib/wikiavro.rb', 'lib/wikiavro/xml.rb',
-             'lib/wikiavro/mediawiki.rb', 'lib/wikiavro/avro.rb']
+  s.files = Dir['lib/**/*.rb']
   s.executables << 'wikiavro'
   s.add_runtime_dependency 'libxml-ruby', '~> 2.7'
   s.add_runtime_dependency 'avro', '~> 1.7'

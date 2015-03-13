@@ -1,6 +1,3 @@
-module WikiAvro
-  Version = '0.0.2'
-end
-
+require 'wikiavro/version'
 require 'wikiavro/mediawiki'
 require 'wikiavro/avro'
