@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'wikiavro'
-require 'xml'
 require 'optparse'
 
 Version = WikiAvro::VERSION
@@ -9,6 +8,8 @@ Version = WikiAvro::VERSION
 logger = WikiAvro::MediaWiki::RevisionProgress.new 10000
 overwrite = false
 deflate = false
+benchmark = false
+xml_parser = nil
 ns = nil
 page = nil
 rev = nil
@@ -49,16 +50,26 @@ opt_parser = OptionParser.new do |opts|
   opts.on('-l OUTFILE', '--liquidthreads=OUTFILE') do |path|
     lqt = path
   end
+
+  opts.on('-b', '--benchmark', "Don't write files, just parse XML") do |b|
+    benchmark = b
+  end
+
+  opts.on('--xml-parser=NAME', "Override XML parser selection") do |p|
+    xml_parser = p
+  end
 end
 
 opt_parser.parse!
 
-abort('You must specify --namespaces') if ns.nil?
-abort('You must specify --pages') if page.nil?
-abort('You must specify --revisions') if rev.nil?
-abort('You must specify --liquidthreads') if lqt.nil?
+if !benchmark
+  abort('You must specify --namespaces') if ns.nil?
+  abort('You must specify --pages') if page.nil?
+  abort('You must specify --revisions') if rev.nil?
+  abort('You must specify --liquidthreads') if lqt.nil?
+end
 
-if !overwrite
+if !overwrite && !benchmark
   [ns, page, rev, lqt].each do |path|
     if File.exists? path
       abort("#{path} already exists! pass --overwrite to proceed anyway")
@@ -66,10 +77,17 @@ if !overwrite
   end
 end
 
-ns = WikiAvro::Avro::NamespaceWriter.new ns, deflate
-page = WikiAvro::Avro::PageWriter.new page, deflate
-rev = WikiAvro::Avro::RevisionWriter.new rev, deflate
-lqt = WikiAvro::Avro::LqtWriter.new lqt, deflate
+if !benchmark
+  ns = WikiAvro::Avro::NamespaceWriter.new ns, deflate
+  page = WikiAvro::Avro::PageWriter.new page, deflate
+  rev = WikiAvro::Avro::RevisionWriter.new rev, deflate
+  lqt = WikiAvro::Avro::LqtWriter.new lqt, deflate
+else
+  ns = WikiAvro::MediaWiki::NullWriter.new
+  page = WikiAvro::MediaWiki::NullWriter.new
+  rev = WikiAvro::MediaWiki::NullWriter.new
+  lqt = WikiAvro::MediaWiki::NullWriter.new
+end
 
 writer = WikiAvro::MediaWiki::WikiWriter.new :logger => logger,
                                              :namespace => ns,
@@ -79,12 +97,57 @@ writer = WikiAvro::MediaWiki::WikiWriter.new :logger => logger,
 
 mw = WikiAvro::MediaWiki::WikiDump.new
 
-xml = XML::Reader.io(ARGF)
-xml.read
+$xml_reader = nil
 
-mw.parse(writer, nil, xml)
+def use_libxml
+  require 'wikiavro/libxml'
+  $xml_reader = WikiAvro::XML::LibXML::Reader
+  puts 'Loaded LibXML.'
+end
 
-ns.close
-page.close
-rev.close
-lqt.close
+def use_aalto
+  require 'wikiavro/aalto'
+  $xml_reader = WikiAvro::XML::Aalto::Reader
+  puts 'Loaded Aalto.'
+end
+
+def use_nokogiri
+  require 'wikiavro/nokogiri'
+  $xml_reader = WikiAvro::XML::Nokogiri::Reader
+  puts 'Loaded nokogiri.'
+end
+
+if !xml_parser
+  begin
+    use_libxml
+  rescue LoadError
+    begin
+      puts 'Could not load Ruby LibXML. Falling back to Aalto.'
+      use_aalto
+    rescue LoadError
+      puts 'Could not load Aalto. Falling back to Nokogiri.'
+      puts 'Expect atrocious performance on jruby.'
+      use_nokogiri
+    end
+  end
+else
+  case xml_parser
+  when 'libxml'
+    use_libxml
+  when 'aalto'
+    use_aalto
+  when 'nokogiri'
+    use_nokogiri
+  else
+    abort('Unknown XML parser!')
+  end
+end
+
+begin
+  mw.parse(writer, nil, $xml_reader.io(ARGF))
+
+  ns.close
+  page.close
+  rev.close
+  lqt.close
+end

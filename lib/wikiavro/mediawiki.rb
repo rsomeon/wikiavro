@@ -95,8 +95,8 @@ module WikiAvro::MediaWiki
     end
 
     def skipped(name)
-#      puts "wikiwriter: skipped element #{name}"
-#      raise 'what?'
+      #puts "wikiwriter: skipped element #{name}"
+      #raise 'what?'
       @logger.report_skipped_element(name)
     end
   end
@@ -182,6 +182,7 @@ module WikiAvro::MediaWiki
   class RevisionProgress < FinalProgress
     def announce_progress
       now = Time.now
+      return if now - @previous_time == 0
       rps = (@revisions - @previous_revisions) / (now - @previous_time)
       puts "Page #{f @pages}, rev #{f @revisions} (#{f rps.round(0)} rps)"
       skipped = total_skipped
@@ -413,11 +414,23 @@ module WikiAvro::MediaWiki
       'comment'
     end
 
+    def reset
+      @deleted = nil
+      @comment = nil
+    end
+
     def parse_attributes(w, p, r)
-      deleted = r['deleted']
-      comment = r.read_string
-      p.comment = {:deleted => deleted,
-                   :comment => comment}
+      @deleted = r['deleted']
+    end
+
+    def parse_content(w, p, r)
+      @comment = r.read_string
+      WikiAvro::XML.skip_tag(w, r, false)
+    end
+
+    def handle_content(w, p, r)
+      p.comment = {:deleted => @deleted,
+                   :comment => @comment}
     end
   end
 

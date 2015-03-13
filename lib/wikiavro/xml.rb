@@ -6,11 +6,10 @@ module WikiAvro::XML
   def self.to_tag(reader)
 #    puts 'to_tag: moving to tag'
     loop do
-      case reader.node_type
-      when XML::Reader::TYPE_ELEMENT
+      if reader.element?
 #        puts "to_tag: got tag #{reader.name}"
         return true
-      when XML::Reader::TYPE_END_ELEMENT
+      elsif reader.end_element?
 #        puts "to_tag: got end tag #{reader.name}"
         return false
       end
@@ -27,15 +26,14 @@ module WikiAvro::XML
   def self.exit_tag(writer, reader, name)
     nest = 1
 
-#    puts "exit_tag: exiting #{name}"
+#    puts "exit_tag: exiting #{name}, currently on #{reader.name}"
 
     loop do
-      case reader.node_type
-      when XML::Reader::TYPE_ELEMENT
+      if reader.element?
 #        puts "exit_tag: entered #{reader.name}"
         writer.skipped(reader.name)
         nest += 1 if reader.name == name
-      when XML::Reader::TYPE_END_ELEMENT
+      elsif reader.end_element?
 #        puts "exit_tag: exited #{reader.name}"
         nest -= 1 if reader.name == name
       end
@@ -52,6 +50,14 @@ module WikiAvro::XML
     nest = 1
     name = reader.name
 
+    if !reader.element?
+      # This should only happen with StAX getText
+#      puts 'skip_tag: called on non-opening element, hoping for the best!'
+      raise MissingElement.new unless reader.end_element?
+      reader.read
+      return
+    end
+
 #    puts "skip_tag: skipping #{name}"
 
     if reader.empty_element?
@@ -62,12 +68,11 @@ module WikiAvro::XML
     end
 
     while reader.read
-      case reader.node_type
-      when XML::Reader::TYPE_ELEMENT
+      if reader.element?
 #        puts "skip_tag: entered #{reader.name}"
         writer.skipped(reader.name) if skipping
         nest += 1 if reader.name == name
-      when XML::Reader::TYPE_END_ELEMENT
+      elsif reader.end_element?
 #        puts "skip_tag: exited #{reader.name}"
         nest -= 1 if reader.name == name
       end
@@ -82,9 +87,11 @@ module WikiAvro::XML
   end
 
   def self.to_element(writer, reader, name)
+#    puts "to_element: moving to #{name}"
     while WikiAvro::XML::to_tag(reader)
 #      puts "to_element: saw #{reader.name}"
       if reader.name == name
+#        puts "to_element: found #{name}"
         return
       else
 #        puts "to_element: skipping #{reader.name}"
@@ -116,9 +123,13 @@ module WikiAvro::XML
         WikiAvro::XML::to_element(output, reader, self.name)
       end
 
+#      puts "parse #{name}: resetting"
       reset
-      @attr = parse_attributes(output, parent, reader)
+#      puts "parse #{name}: parsing attributes"
+      parse_attributes(output, parent, reader)
+#      puts "parse #{name}: parsing content"
       parse_content(output, parent, reader)
+#      puts "parse #{name}: handling content"
       handle_content(output, parent, reader)
     end
 
@@ -137,6 +148,7 @@ module WikiAvro::XML
     # parent's opening tag. It should leave reader positioned after
     # the closing tag.
     def parse_content(w, p, r)
+#      puts "parse_content #{name}"
       if r.empty_element?
         @children.each do |c|
           raise MissingElement.new(c.name) if !c.optional?
@@ -148,17 +160,17 @@ module WikiAvro::XML
       # Move away from our opening tag
       r.read
       @children.each do |c|
-#        puts "element: parsing #{c.class}"
+#        puts "parse_content: parsing child #{c.class}"
         c.parse(w, self, r)
-#        puts "parsed #{c.class}"
+#        puts "parse_content: parsed child #{c.class}"
       end
 
       if r.empty_element? && r.name == self.name
-#        puts "got empty: #{r.name}"
+#        puts "parse_content: got empty self #{r.name}"
         r.read
-#        puts "now got this: #{r.name}"
+#        puts "parse_content: now got this #{r.name}"
       else
-#        puts "mopping up #{self.name}"
+#        puts "parse_content: mopping up #{self.name}"
         WikiAvro::XML.exit_tag(w, r, self.name)
       end
     end
@@ -184,10 +196,12 @@ module WikiAvro::XML
     attr_reader :name
 
     def parse_content(w, p, r)
-      p.send(@writer, r.read_string)
+      got = r.read_string
+#      puts "inserter: #{@name} got #{got}"
+      p.send(@writer, got)
 #      puts "inserter: exiting #{@name}"
       WikiAvro::XML.skip_tag(w, r, false)
-#      puts "exited"
+#      puts "inserter: exited"
     end
 
     def initialize(name, target=name)

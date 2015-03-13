@@ -161,6 +161,7 @@ EOS
 
       if !comment.nil?
         if !(comment[:deleted].nil? ^ comment[:comment].nil?)
+          puts comment
           raise 'comment[:deleted] and comment[:comment] should alternate'
         end
 
