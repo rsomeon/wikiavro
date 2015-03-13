@@ -1,3 +1,8 @@
 *~
 *.gem
 *.dmp.xz
+*.lock
+.jbundler/
+.ruby-version
+lib/wikiavro/jars/
+pkg/
