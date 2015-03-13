@@ -1,4 +1,4 @@
-require_relative 'lib/wikiavro/version'
+require File.join(File.dirname(__FILE__), 'lib/wikiavro/version')
 require 'jbundler'
 
 FileUtils::cp(JBUNDLER_CLASSPATH, 'lib/wikiavro/jars/')
