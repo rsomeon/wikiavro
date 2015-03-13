@@ -114,7 +114,7 @@ end
 def use_nokogiri
   require 'wikiavro/nokogiri'
   $xml_reader = WikiAvro::XML::Nokogiri::Reader
-  puts 'Loaded nokogiri.'
+  puts "Loaded Nokogiri #{Nokogiri::VERSION}."
 end
 
 if !xml_parser
@@ -126,7 +126,7 @@ if !xml_parser
       use_aalto
     rescue LoadError
       puts 'Could not load Aalto. Falling back to Nokogiri.'
-      puts 'Expect atrocious performance on jruby.'
+      puts 'Expect Nokogiri to have atrocious performance on jruby.'
       use_nokogiri
     end
   end
@@ -145,7 +145,7 @@ end
 
 begin
   mw.parse(writer, nil, $xml_reader.io(ARGF))
-
+ensure
   ns.close
   page.close
   rev.close
