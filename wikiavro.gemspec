@@ -2,11 +2,10 @@ require File.join(File.dirname(__FILE__), 'lib/wikiavro/version')
 
 begin
   require 'jbundler'
-rescue LoadError
+  FileUtils::cp(JBUNDLER_CLASSPATH, 'lib/wikiavro/jars/')
+rescue LoadError, NameError
   # We don't have jbundler yet when bundle install (which will try to
   # load this file) is first run
-else
-  FileUtils::cp(JBUNDLER_CLASSPATH, 'lib/wikiavro/jars/')
 end
 
 Gem::Specification.new do |s|
